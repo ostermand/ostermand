@@ -6,7 +6,7 @@
   <a href="https://vk.com/osterman_dn">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-Facebook-URL">
+  <a href="https://www.facebook.com/profile.php?id=100008510972509">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
